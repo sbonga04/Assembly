@@ -1,0 +1,18 @@
+8 = 1000 in bin
+shift right(1) = 0100 = 
+shift right(2) = 0010 = 2
+shift right(3) = 0001 = 1
+shift right(4) = 0000 = 0
+
+
+8 = 1000
+2 = 0010 shift right(2)
+8(2^2) 
+
+
+1=0001
+2=0001 shift left(1)
+1 *2^1
+
+4=0100 shift left(2)
+1 *(2^2)
